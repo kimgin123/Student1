@@ -1,6 +1,9 @@
 
 package student1;
 
+/** 
+* date: 24th jan 2023 for PULL command 
+*/
 
 public class StudentList {
     public static void main(String[] args){
